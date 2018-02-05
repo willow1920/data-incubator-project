@@ -8,13 +8,13 @@ Link to dataset:
 Scipts used to generate sample plots:
 
 > finalresult<-table(studentInfo$final_result)
-
+>
 > pie(finalresult)
-
+>
 > dev.copy2pdf(file="final_result_pie.pdf")
-
+>
 > genderage<-table(studentInfo$gender,studentInfo$age_band)
-
+>
 > barplot(genderage,main = "Gender and Age",col=c("darkblue","red"),legend = rownames(genderage), beside=TRUE)
-
+>
 > dev.copy2pdf(file="gender and age barplot.pdf")
