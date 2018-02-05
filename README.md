@@ -1,2 +1,3 @@
 # data-incubator-project
 Project on virtual learning enironment (VLE) dataset analysis
+With the advancement of internet technology, virtual learning environments have emerged and grown rapidly. With large amount of student data, we can analyze the available datasets to find get valuable information on the selection and performance of online courses. Improvements can be made by knowing factors like age, gender, region disability, education level of students, and length, opening time, assignment load, amount of student register/withdraw, and final result of courses. With more information, it is possible to provide better courses and adjust to target students.
